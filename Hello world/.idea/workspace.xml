@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e9aac81-7eaa-4dc5-8291-7bfed4a115d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmrEvfuLHB2TtcnvozbXX2oJzS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.ForEachLoop25">
+    <configuration name="BreakAndContinue24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BreakAndContinue24" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DoWhileLoops23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.DoWhileLoops23" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EscapeSequence" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.EscapeSequence" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForEachLoop25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ForEachLoop25" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoops21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ForLoops21" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Hello world" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileLoops22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.WhileLoops22" />
+      <module name="Hello world" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ForEachLoop25" />
+        <item itemvalue="Application.BreakAndContinue24" />
+        <item itemvalue="Application.DoWhileLoops23" />
+        <item itemvalue="Application.WhileLoops22" />
+        <item itemvalue="Application.ForLoops21" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e9aac81-7eaa-4dc5-8291-7bfed4a115d2" name="Default Changelist" comment="" />
+      <created>1583558502652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583558502652</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="777" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583742730594">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="777" y="310" width="424" height="484" key="FileChooserDialogImpl/69.27.1851.1053@69.27.1851.1053" timestamp="1583742730594" />
+    <state width="1805" height="278" key="GridCell.Tab.0.bottom" timestamp="1584767005964">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="278" key="GridCell.Tab.0.bottom/69.27.1851.1053@69.27.1851.1053" timestamp="1584767005964" />
+    <state width="1805" height="278" key="GridCell.Tab.0.center" timestamp="1584767005964">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="278" key="GridCell.Tab.0.center/69.27.1851.1053@69.27.1851.1053" timestamp="1584767005964" />
+    <state width="1805" height="278" key="GridCell.Tab.0.left" timestamp="1584767005963">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="278" key="GridCell.Tab.0.left/69.27.1851.1053@69.27.1851.1053" timestamp="1584767005963" />
+    <state width="1805" height="278" key="GridCell.Tab.0.right" timestamp="1584767005964">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="278" key="GridCell.Tab.0.right/69.27.1851.1053@69.27.1851.1053" timestamp="1584767005964" />
+    <state width="1805" height="344" key="GridCell.Tab.1.bottom" timestamp="1584160640203">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="344" key="GridCell.Tab.1.bottom/69.27.1851.1053@69.27.1851.1053" timestamp="1584160640203" />
+    <state width="1805" height="344" key="GridCell.Tab.1.center" timestamp="1584160640203">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="344" key="GridCell.Tab.1.center/69.27.1851.1053@69.27.1851.1053" timestamp="1584160640203" />
+    <state width="1805" height="344" key="GridCell.Tab.1.left" timestamp="1584160640203">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="344" key="GridCell.Tab.1.left/69.27.1851.1053@69.27.1851.1053" timestamp="1584160640203" />
+    <state width="1805" height="344" key="GridCell.Tab.1.right" timestamp="1584160640203">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state width="1805" height="344" key="GridCell.Tab.1.right/69.27.1851.1053@69.27.1851.1053" timestamp="1584160640203" />
+    <state x="483" y="187" key="SettingsEditor" timestamp="1584156112595">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="483" y="187" key="SettingsEditor/69.27.1851.1053@69.27.1851.1053" timestamp="1584156112595" />
+    <state x="650" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1583742271996">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="650" y="380" key="com.intellij.ide.util.TipDialog/69.27.1851.1053@69.27.1851.1053" timestamp="1583742271996" />
+    <state x="560" y="68" width="869" height="969" key="find.popup" timestamp="1583559877975">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="560" y="68" width="869" height="969" key="find.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1583559877975" />
+    <state x="303" y="153" width="1372" height="799" key="new project wizard" timestamp="1583742769086">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="303" y="153" width="1372" height="799" key="new project wizard/69.27.1851.1053@69.27.1851.1053" timestamp="1583742769086" />
+    <state x="658" y="253" key="run.anything.popup" timestamp="1584172331541">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="658" y="253" key="run.anything.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1584172331541" />
+    <state x="657" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1583742412430">
+      <screen x="69" y="27" width="1851" height="1053" />
+    </state>
+    <state x="657" y="257" width="672" height="678" key="search.everywhere.popup/69.27.1851.1053@69.27.1851.1053" timestamp="1583742412430" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hello_world$EscapeSequence.ic" NAME="EscapeSequence Coverage Results" MODIFIED="1584160621776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
